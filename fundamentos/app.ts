@@ -14,6 +14,6 @@ let x : boolean = true;
 let m: string | number = 2;
 
 m = "André"
-m = false;
+//m = false; // Erro
 
 console.log(m);
